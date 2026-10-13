@@ -1,7 +1,7 @@
 ---
 title: "Agentic Accessible Film, TV and Video Production Management"
 version: "1.0.0"
-author: "Double FW Ltd — AI-assisted draft prepared for Gareth Ford Williams"
+author: "Double FW Ltd"
 date: "2026-10-13"
 license: "MIT"
 language: "en-GB"
